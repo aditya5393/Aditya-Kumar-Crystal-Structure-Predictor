@@ -3,7 +3,7 @@
 ## 👨‍💻 Developed By
 
 **Name:** Aditya Kumar  
-**Enrollment Number:** 00920802724  
+AIML project
 
 ---
 
